@@ -1,0 +1,10 @@
+
+---
+
+## 📄 .env.example (REQUIRED)
+
+```env
+MANAGER_BOT_TOKEN=
+TELEGRAM_API_ID=
+TELEGRAM_API_HASH=
+MAIN_ADMIN_ID=
